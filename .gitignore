@@ -1,0 +1,9 @@
+cmake-build-debug/
+.idea/
+.vs/
+out/
+Debug/
+26-3.sln
+26-3.vcxproj
+26-3.vcxproj.filters
+26-3.vcxproj.user
